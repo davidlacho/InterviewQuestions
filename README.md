@@ -16,3 +16,4 @@ Given an integer, return an integer that is the reverse ordering of numbers.
 Given a string, return the character that is most commonly used in the string. 
 Similar to: Does string A have the same characters as string B (is it an anagram)?
 Similar to: Does the given string have any repeated characters in it?
+-Take a string and convert it to object, where keys are characters in the string, and values are the number of times they are found.
