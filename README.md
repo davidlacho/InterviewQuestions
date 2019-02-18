@@ -10,3 +10,5 @@ A series of numbers in which each number (Fibonacci number) is the sum of the tw
 Given a string, return a new string with the reversed order of characters.
 ## palindrome.js
 Given a string, return true if the string is a palindrome or false if it is not.  Palindromes are strings that form the same word if it is reversed. *Do* include spaces and punctuation in determining if the string is a palindrome.
+## reverseint.js
+Given an integer, return an integer that is the reverse ordering of numbers.
