@@ -17,3 +17,4 @@ Given a string, return the character that is most commonly used in the string.
 Similar to: Does string A have the same characters as string B (is it an anagram)?
 Similar to: Does the given string have any repeated characters in it?
 ## arrayChunking.js
+Given an array and chunk size, divide the array into many subarrays where each subarray is of length size. For example, `chunk([1, 2, 3, 4], 2)` returns `[[ 1, 2], [3, 4]]`.
