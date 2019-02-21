@@ -37,7 +37,7 @@ const chunk2 = (arr, size) => {
 // Using .slice()
 const chunk3 = (arr, size) => {
   const chunked = [];
-  for (i=0; i < arr.length; i = i + size) {
+  for (i = 0; i < arr.length; i = i + size) {
     chunked.push(arr.slice(i, i + size));
   }
 
