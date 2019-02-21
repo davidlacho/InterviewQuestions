@@ -20,5 +20,5 @@ Similar to: Does the given string have any repeated characters in it?
 Given an array and chunk size, divide the array into many subarrays where each subarray is of length size. For example, `chunk([1, 2, 3, 4], 2)` returns `[[ 1, 2], [3, 4]]`.
 ## anagrams.js
 Check to see if two provided strings are anagrams of eachother. One string is an anagram of another if it uses the same characters in the same quantity. Only consider characters, not spaces or punctuation. Consider capital letters to be the same as lower case.
-## index.js
+## capitalization.js
 Write a function that accepts a string.  The function should capitalize the first letter of each word in the string then return the capitalized string.
